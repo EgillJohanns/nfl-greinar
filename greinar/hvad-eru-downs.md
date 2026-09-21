@@ -5,33 +5,32 @@ date: 2026-09-21
 draft: false
 ---
 
-## Hvað er down?
+##Hvað er down?
 
-Í NFL er **down** tilraun sóknarinnar til að færa boltann áfram. Hver down byrjar þegar boltinn er settur í leik og endar þegar leikurinn er dæmdur dauður.
+Í NFL er down ein tilraun sóknarliðsins til að færa boltann fram völlinn. Hver tilraun hefst þegar boltinn er settur í leik og lýkur þegar leikurinn er dæmdur stopp.
 
-Markmið sóknarinnar er ekki bara að ná nokkrum jörðum í einu, heldur að halda boltanum með því að vinna sér inn **first down** (fyrsti niður, það er nýtt sett af fjórum tilraunum). Til þess þarf sóknin að komast alla nauðsynlega vegalengd frá upphafsstað núverandi lotu tilrauna.
+Markmið sóknarinnar er ekki aðeins að vinna nokkrar jardir í hverri tilraun, heldur að halda boltanum með því að ná first down eða fyrsta niður. Fyrsti niður veitir liðinu nýtt sett af fjórum tilraunum. Til þess þarf sóknin að komast tiltekna vegalengd frá þeim stað þar sem núverandi lota tilrauna hófst.
 
-Þess vegna sérðu oft tölur eins og „1st and 10“ eða „3rd and 2“. Fyrri talan segir hvaða tilraun er í gangi. Seinni talan segir hversu langt er eftir að first down.
+Þess vegna sjást oft merkingar eins og 1st and 10 eða 3rd and 2. Fyrri talan segir til um hvaða tilraun er í gangi, en sú síðari hversu margar jardir vantar til að ná fyrsta niður.
 
-## Hvernig fjórar tilraunir virka
+##Hvernig virka fjórar tilraunir?
 
-Sóknin fær fjórar tilraunir til að ná þeirri vegalengd sem þarf fyrir nýjan fyrsta niður. Hún byrjar á fyrsta downi. Ef hún nær ekki markinu í fyrstu tilraun færist hún á annað down, síðan þriðja og loks fjórða.
+Sóknin fær allt að fjórar tilraunir til að ná nauðsynlegri vegalengd fyrir fyrsta niður. Hún byrjar á fyrsta downi. Takist ekki að ná markmiðinu færist hún á annað down, síðan þriðja og loks fjórða.
 
-Náist nauðsynleg vegalengd á einhverju stigi byrjar ný lota strax: talningin fer aftur á fyrsta down og sóknin fær aftur fjórar tilraunir til að halda áfram. Þetta er kjarni kerfisins. Liðið þarf stöðugt að endurnýja rétt sinn til að halda boltanum.
+Nái liðið nauðsynlegri vegalengd á einhverju þessara stiga fær það strax nýjan fyrsta niður. Talningin byrjar þá upp á nýtt og sóknin fær aftur fjórar tilraunir. Þetta er grunnurinn að sóknarleik NFL: að endurnýja stöðugt réttinn til að halda boltanum.
 
-Sóknin þarf ekki að ná allri vegalengdinni í einni tilraun. Hún getur skipt verkefninu niður, tekið styttri áfanga og safnað jörðum þar til línan fyrir first down er náð.
-Stundum næst markið með einu löngu spili, stundum með nokkrum stuttum.
+Sóknin þarf ekki að ná allri vegalengdinni í einni tilraun. Hún getur unnið sér smám saman fram á við með nokkrum styttri leikjum þar til fyrsta niður er náð. Stundum næst markið með einu löngu spili, en stundum með röð stuttra áfanga.
 
-## Hvenær lýkur einni tilraun?
+##Hvenær lýkur tilraun?
 
-Ein tilraun lýkur þegar boltahafinn er felldur, fer út af vellinum eða þegar sending er ófullkomin. Tilraun lýkur líka þegar stig er skorað eða þegar vörnin nær boltanum.
+Tilraun lýkur þegar boltahafinn er felldur, fer út af vellinum eða þegar sending er ófullkomin. Hún lýkur einnig þegar stig eru skoruð eða þegar vörnin nær boltanum.
 
-Eftir hverja lokna tilraun er staðan metin út frá því hvar boltinn endaði. Út frá þeim stað er reiknað hvort first down hafi náðst eða hversu langt sé eftir. Þannig byggist leikurinn upp í stuttum, skýrum skrefum.
+Eftir hverja tilraun er boltinn staðsettur þar sem leikurinn endaði og út frá þeim stað er metið hvort fyrsta niður hafi náðst eða hversu langt sé eftir. Þannig skiptist leikurinn upp í röð skýrra og afmarkaðra skrefa.
 
-## Hvað gerist á fjórða downi?
+##Hvað gerist á fjórða downi?
 
-Fjórða down er síðasta tækifæri sóknarinnar í núverandi lotu. Ef sóknin reynir leik og nær ekki nauðsynlegri vegalengd tapar hún boltanum á þeim stað sem leikurinn endaði. Þá tekur hitt liðið við sókn.
+Fjórða down er síðasta tækifæri sóknarinnar í núverandi lotu tilrauna. Ef liðið reynir leik á fjórða downi og nær ekki nauðsynlegri vegalengd missir það boltann á þeim stað sem leikurinn endaði. Andstæðingurinn tekur þá við sókninni.
 
-Vegna þess velur sóknarliðið oft á fjórða downi milli ólíkra leiða. Það getur reynt að ná first down, sparkað boltanum frá sér til að færa andstæðingnum verri stöðu, eða reynt markspyrnu ef aðstæður leyfa.
+Vegna þess felur fjórða down oft í sér mikilvæga ákvörðun. Sóknarliðið getur reynt að ná fyrsta niður, sparkað boltanum frá sér (punt) til að setja andstæðinginn í verri stöðu eða reynt markspyrnu (field goal) ef færið er innan skotfæris.
 
-Þegar maður skilur downs verður NFL miklu einfaldara að lesa. Tölurnar segja í raun stutta sögu: hvaða tilraun er í gangi, hvað vantar mikið og hversu mikil áhættan er í næsta leik.
+Þegar maður skilur hvernig downs virka verður NFL mun auðveldara að fylgjast með. Tölurnar segja í raun alla söguna: hvaða tilraun er í gangi, hversu langt er í fyrsta niður og hversu mikil áhættan er í næsta leik.
