@@ -5,7 +5,7 @@ date: 2026-09-21
 draft: false
 ---
 
-##Hvað er down?
+## Hvað er down?
 
 Í NFL er down ein tilraun sóknarliðsins til að færa boltann fram völlinn. Hver tilraun hefst þegar boltinn er settur í leik og lýkur þegar leikurinn er dæmdur stopp.
 
@@ -13,7 +13,7 @@ Markmið sóknarinnar er ekki aðeins að vinna nokkrar jardir í hverri tilraun
 
 Þess vegna sjást oft merkingar eins og 1st and 10 eða 3rd and 2. Fyrri talan segir til um hvaða tilraun er í gangi, en sú síðari hversu margar jardir vantar til að ná fyrsta niður.
 
-##Hvernig virka fjórar tilraunir?
+## Hvernig virka fjórar tilraunir?
 
 Sóknin fær allt að fjórar tilraunir til að ná nauðsynlegri vegalengd fyrir fyrsta niður. Hún byrjar á fyrsta downi. Takist ekki að ná markmiðinu færist hún á annað down, síðan þriðja og loks fjórða.
 
@@ -21,13 +21,13 @@ Nái liðið nauðsynlegri vegalengd á einhverju þessara stiga fær það stra
 
 Sóknin þarf ekki að ná allri vegalengdinni í einni tilraun. Hún getur unnið sér smám saman fram á við með nokkrum styttri leikjum þar til fyrsta niður er náð. Stundum næst markið með einu löngu spili, en stundum með röð stuttra áfanga.
 
-##Hvenær lýkur tilraun?
+## Hvenær lýkur tilraun?
 
 Tilraun lýkur þegar boltahafinn er felldur, fer út af vellinum eða þegar sending er ófullkomin. Hún lýkur einnig þegar stig eru skoruð eða þegar vörnin nær boltanum.
 
 Eftir hverja tilraun er boltinn staðsettur þar sem leikurinn endaði og út frá þeim stað er metið hvort fyrsta niður hafi náðst eða hversu langt sé eftir. Þannig skiptist leikurinn upp í röð skýrra og afmarkaðra skrefa.
 
-##Hvað gerist á fjórða downi?
+## Hvað gerist á fjórða downi?
 
 Fjórða down er síðasta tækifæri sóknarinnar í núverandi lotu tilrauna. Ef liðið reynir leik á fjórða downi og nær ekki nauðsynlegri vegalengd missir það boltann á þeim stað sem leikurinn endaði. Andstæðingurinn tekur þá við sókninni.
 
