@@ -31,7 +31,7 @@ Refsingar í NFL eru mældar í jördum. Boltinn færist þá aftur eða fram ef
 
 **Roughing the passer** er þegar leikstjórnandinn, eða **quarterback**, fær óþarflega harkalega meðferð eftir að hann hefur kastað. Sú refsing er 15 jardar og sjálfkrafa first down.
 
-**Delay of game** er einfaldara brot en mjög algengt. Þá nær sóknin ekki að setja boltann í leik áður en **play clock**, leikklukkan milli spila, rennur út. Það kostar 5 jarda.
+**Delay of game** er einfaldara brot en mjög algengt. Þá nær sóknin ekki að setja boltann í leik áður en **play clock**, leikklukkan milli kerfa, rennur út. Það kostar 5 jarda.
 
 ## Af hverju skiptir þetta máli?
 
