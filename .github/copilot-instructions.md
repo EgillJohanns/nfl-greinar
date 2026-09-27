@@ -17,6 +17,8 @@ draft: false
 ## Stíll
 - Skrifaðu góða íslensku. Tónninn má vera líflegur og "amerískur" (útsendingarstemning), en aldrei á kostnað nákvæmni.
 - Ensk hugtök (blitz, quarterback, first down) fá stutta íslenska skýringu við fyrstu notkun og eru svo notuð óbreytt.
+- Ekki þýða ensku hugtökin sjálf. Skrifaðu "first down", ekki "fyrsti niður" eða "fyrsta niður"; "touchdown", ekki "snertimark". Íslensk beyging er í lagi (downið, touchdowninu) en orðið sjálft helst enskt, eins og í orðabókinni á síðunni.
+- Ef þú skrifar [STAÐFESTA] í textann, nefndu það líka í PR-lýsingunni. Greinin fer ekki í loftið fyrr en það hefur verið leyst.
 - Stuttar málsgreinar. 300-600 orð nema beðið sé um annað. Notaðu millifyrirsagnir (##) ef greinin er lengri en 300 orð.
 
 ## Nákvæmni (mikilvægast)
